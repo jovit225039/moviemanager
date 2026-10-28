@@ -93,3 +93,10 @@ Backend: `http://localhost:5000`
 - Watching movies cannot be deleted.
 - Watch Next uses highest priority, then shortest runtime.
 - Statistics are calculated by the backend and refreshed after mutations.
+## Screenshots
+
+### Dashboard
+![Movie Watchlist Dashboard](screenshots/dashboard.png)
+
+### Add Movie
+![Add Movie Form](screenshots/add-movie.png)
